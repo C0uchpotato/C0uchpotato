@@ -2,7 +2,8 @@
 - 👀 I’m interested in Python and branching out to learn more about backend coding and Linux as well as home automation, self-hosting services, etc.
 - 🌱 I’m currently learning Python (still)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @ pythonpunk@gmail.com
+- 📫 How to reach me @ rjacksonhelmer@gmail.om
+- 
 
 <!---
 C0uchpotato/C0uchpotato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
