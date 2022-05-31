@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @C0uchpotato
 - 👀 I’m interested in Python and branching out to learn more about backend coding and Linux as well as home automation, self-hosting services, etc.
-- 🌱 I’m currently learning Python (still)
+- 🌱 I’m currently learning Python and Assembly
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ rjacksonhelmer@gmail.om
 - 
