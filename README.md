@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and branching out to learn more about cybersecurity, pentesting and scripting.
 - 🌱 I’m currently learning Python, Assembly, and Rust!
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me rjacksonhelmer@gmail.om
+- 📫 How to reach me socail@jackhelmer.com
 - 
 
 <!---
